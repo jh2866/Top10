@@ -55,6 +55,17 @@ header {
   .item-entry.name {
     margin-bottom: 1rem;
     background: rgba(73, 73, 73, 0.5); }
+  .item-entry.image {
+    max-width: 100rem; }
+    .item-entry.image img {
+      display: block;
+      max-width: 1000px;
+      max-height: 1000px;
+      width: auto;
+      height: auto;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 15rem; }
 
 main {
   padding: 1rem;
